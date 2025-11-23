@@ -438,6 +438,8 @@ export default function Home() {
         </div>
 
         <div className="mt-12 text-center text-gray-600">
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6983099410472591"
+     crossorigin="anonymous"></script>
           <p>适用于微信公众号、博客、社交媒体等场景</p>
           <p className="mt-2 flex items-center justify-center gap-1">
             <a href="https://wpzy.cc" target="_blank" rel="noopener noreferrer" className="hover:text-gray-900 transition-colors">
